@@ -1,0 +1,4 @@
+xlsxwriter
+streamlit
+pandas
+plotly
